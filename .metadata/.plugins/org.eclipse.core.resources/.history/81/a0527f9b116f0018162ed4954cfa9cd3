@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package fr.stevenroman91.monpronostique.web;
+
+import javax.servlet.http.HttpServlet;
+
+/**
+ * @author Adminl
+ *
+ */
+public class PronoServlet extends HttpServlet {
+
+}

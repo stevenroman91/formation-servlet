@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package fr.stevenroman91.monpronostique.web;
+
+/**
+ * @author Adminl
+ *
+ */
+public class PronoServlet entends HttpServlet {
+
+}

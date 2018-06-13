@@ -1,0 +1,7 @@
+<web-app version="3.1">
+	<!-- Description d'une servlet avec association à la classe Java. -->
+	<servlet>
+		<servlet-name>BlogServlet</servlet-name>
+		<servlet-class>fr.stevenroman91.blog.web.BlogServlet</servlet-class>
+	</servlet>
+</web-app>
